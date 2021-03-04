@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEdit, faTrash } from "@fortawesome/free-solid-svg-icons";
 import { IMovie } from "../models";
 
-// Komenatar
+// Komenatarl
 interface IState {
   movies: IMovie[];
 }
